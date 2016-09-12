@@ -1,0 +1,5 @@
+192733,Luis,Diaz,Mathematics,English,Statistics,Business,4,3,4,3,90,85,88,90
+108326,Natasha,Ward,English,Probability,Spanish,Biology,3,3,3,4,75,77,70,82
+174021,Kevin,Jones,Economics,Accounting,History,English,3,3,3,3,90,95,98,92
+111232,Patrick,Mars,Statistics,Database,Java,History,4,3,3,3,65,68,82,65
+190305,Carry,Smiles,Programming,Spanish,Algorithms,Statistics,3,3,3,4,50,90,69,75
